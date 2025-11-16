@@ -26,7 +26,7 @@
 
 ## 🚀 About Me
 - 🔭 Working on  
-  - TEDx Website (Tech Team)  
+  - TEDx Website (Tech Lead)  
   - AI Developer Assistant 🤖  
   - Podcast Guest–Host Matching SaaS  
   - Autonomous GPS-less Drone (ArduPilot + Pi)
