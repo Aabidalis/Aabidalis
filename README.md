@@ -104,6 +104,13 @@ Git • GitHub • Debugging
  
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/notysozu/notysozu/main/assets/svg/grid-snake.svg" width="full" />
+</p>
+
+
+---
+
 ## 🔗 Connect With Me
 
 <p>
